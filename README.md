@@ -1,2 +1,2 @@
 # odin-recipies
-Going to have some of my favorite recipes
+Learning some HTML and CSS
